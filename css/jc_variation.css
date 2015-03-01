@@ -1,0 +1,31 @@
+.variations.variations-grid{background: none repeat scroll 0 0 #ffffff;border: 0;position: relative;width:100%;}
+.variations.variations-grid tr{background: none repeat scroll 0 0 #fafafa;border: 1px solid #ededed;display: block;margin-bottom: 2px;margin-top: 2px;padding-bottom: 5px;padding-top: 5px;width: 100%;}
+.variations.variations-grid tr td:first-child{width: 24%;}
+.variations.variations-grid tr td{width: 21%;vertical-align: middle;padding-left: 5px;}
+.variations.variations-grid tr td:last-child{width: 42%;}
+.variations.variations-grid tr td span{font-size: 14px;}
+.variations.variations-grid tr td button,
+.variations.variations-grid tr td .quantity {  display: inline-block;  float: left;position: relative;}
+.variations.variations-grid tr td button img{position: absolute;top: 10px;right: 0;}
+.variations.variations-grid tr td button img.sucess{height: 20px;position: absolute;right: -8px;top: 4px;width: 20px;}
+.variations.variations-grid tr td button{border-radius: 5px;font-size: 14px;font-weight: normal;height: 29px;padding: 2px 2px 2px 5px;text-align: left;text-transform: none;width: 105px;}
+.variations.variations-grid tr td .quantity{}
+.stepper {background: none repeat scroll 0 0 #ffffff;border: 1px solid #ededed;border-radius: 3px;margin-right: 5px;overflow: hidden;position: relative;width: 57px;height: 30px;}
+.stepper .stepper-input { background: #F9F9F9; border: 1px solid #ccc; border-radius: 3px; color: #333; font-size: 13px; line-height: 1.2; margin: 0; overflow: hidden;  width: 100%; z-index: 49;	-moz-appearance: textfield;height: 27px;padding: 0 0 0 9px;}
+.stepper .stepper-input{border: medium none;position: absolute;text-align: left !important;}
+.stepper .stepper-input::-webkit-inner-spin-button,
+.stepper .stepper-input::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+.stepper .stepper-input:focus { background-color: #fff; }
+.stepper .stepper-arrow { background: #eee url("../img/jquery.fs.stepper-arrows.png") no-repeat; border: 1px solid #ccc; cursor: pointer; display: block; height: 50%; position: absolute; right: 0; text-indent: -99999px; width: 20px; z-index: 50; }
+.stepper .stepper-arrow.up { background-position: center top; border-bottom: none; top: 0; }
+.stepper .stepper-arrow.down { background-position: center bottom; bottom: 0; }
+.stepper.disabled .stepper-input { background: #fff; border-color: #eee; color: #ccc; }
+.stepper.disabled .stepper-arrow { background: #fff; border-color: #eee; cursor: default; }
+.woocommerce .variations.variations-grid .quantity .qty {font-size: 14px;height: 30px;left: 0;overflow: hidden;position: absolute;text-align: left;top: 0;width: 100%;}
+.variations.variations-grid tr td form{margin: 0!important;padding: 0!important;width: 100%;}
+
+@media screen and (min-width: 740px) {
+	.stepper:hover .stepper-input { background-color: #fff; }
+	.stepper .stepper-step:hover { background-color: #F9F9F9; }
+	.stepper.disabled .stepper-arrow { background: #fff; border-color: #eee; cursor: default; }
+}

@@ -1,0 +1,6 @@
+.overlay{background: url("../img/bg01.png");display: none;height: 100%;left: 0;position: fixed;top: 0;width: 100%;z-index: 150;}
+.overlay .content-over{background: none repeat scroll 0 0 #ffffff;border-radius: 10px;height: auto;left: 50%;padding: 20px;position: absolute;top: 50%;transform: translate(-50%, -50%);width: 425px;}
+.overlay .content-over .item > img{position: absolute;left: 0;top: 0;right: 0;bottom: 0;margin: auto;}
+.overlay .content-over .close-overlay{background: none;height: 20px;position: absolute;right: 0;top: 0;width: 20px;z-index: 155;}
+.overlay .content-over .close-overlay img{height: 100%;left: 0;position: absolute;top: 0;width: 100%;}
+.overlay .content-over .item table{margin: 0;padding: 0;}
