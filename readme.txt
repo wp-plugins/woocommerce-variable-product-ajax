@@ -1,4 +1,4 @@
-=== JC Woocommerce Variable Product Ajax ===
+=== Woocommerce Variable Product Ajax ===
 Contributors: webdesignjc
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25BYCRDE6D2PW
 Tags: ajax variable product, ajax woocommerce, woocommerce ajax, variable product ajax, product ajax woocommerce, product ajax
