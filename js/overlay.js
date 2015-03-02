@@ -1,6 +1,6 @@
 jQuery(document).ready(function($){
   
-  var jcurl = window.location.hostname;
+  //var jcurl = window.location.hostname;
   var jc_loading = $("#jc_loading").val();
   var jc_success = $("#jc_success").val();
   var jc_close = $("#jc_close").val();
