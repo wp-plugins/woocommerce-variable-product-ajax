@@ -30,13 +30,13 @@ This plugin enabled varible add product to Cart with ajax in WooCommerce, the de
 
 == Screenshots ==
 
-1. img 1
-2. img 2
-3. img 3
-4. img 4
-5. img 5
-6. img 6
-7. img 7
+1. Woocommerce Variable Product Ajax 1
+2. Woocommerce Variable Product Ajax 2
+3. Woocommerce Variable Product Ajax 3
+4. Woocommerce Variable Product Ajax 4
+5. Woocommerce Variable Product Ajax 5
+6. Woocommerce Variable Product Ajax 6
+7. Woocommerce Variable Product Ajax 7
 
 == Changelog ==
 
